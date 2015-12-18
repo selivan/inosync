@@ -115,7 +115,7 @@ To use this script you need the following software installed on your system:
 Related Software
 ================
 
-inosync is similar to `lsyncd <http://www.pri.univie.ac.at/index.php?c=show&CEWebS_what=Lsyncd>`_,
+inosync is similar to `lsyncd <https://github.com/axkibe/lsyncd/wiki>`_,
 but uses a lot less (nasty) magic to parse rsync excludes and shared www
 directories. Additionally inosync has no limitation on filename size and number
 of active watchpoints.
